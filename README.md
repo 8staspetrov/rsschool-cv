@@ -1,8 +1,8 @@
 - https://8staspetrov.github.io/rsschool-cv/cv
 - https://8staspetrov.github.io/rsschool-cv/
 - https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/html-css
-- https://user-images.githubusercontent.com/79513858/110381976-4f95b780-806b-11eb-8712-b28fb3fcf565.png
-Дедлайн: 8 марта 2021 23:59 UTC
+- https://user-images.githubusercontent.com/79513858/110381976-4f95b780-806b-11eb-8712-b28fb3fcf565.png/
+- Дедлайн: 8 марта 2021 23:59 UTC
 - Ваша оценка - 100 баллов 
 Отзыв по пунктам ТЗ:
 Выполненные пункты:
